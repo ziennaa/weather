@@ -10,5 +10,5 @@ A simple weather website  using **HTML, CSS, and JavaScript** that fetches real-
   -  Temperature
   -  Humidity
   -  Wind Speed
-  - 🖼 Weather-based icon
+  -  Weather-based icon
 
